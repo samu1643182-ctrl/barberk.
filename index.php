@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>BarberK - Barbería Profesional</title>
+    <title>BarberK - La Barberia Del Barrio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,7 +28,7 @@
         <li>Corte Clásico</li>
         <li>Fade / Degradado</li>
         <li>Arreglo de Barba</li>
-        <li>Diseños Personalizados</li>
+        <li>Combo Chinga</li>
     </ul>
 </section>
 
@@ -38,3 +38,4 @@
 
 </body>
 </html>
+
