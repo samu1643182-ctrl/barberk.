@@ -37,7 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <option>Corte Clásico</option>
         <option>Fade / Degradado</option>
         <option>Arreglo de Barba</option>
-        <option>Diseño Personalizado</option>
+        <option>Combo Chinga</option>
     </select>
 
     <input type="date" name="fecha" required>
@@ -50,6 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 </body>
 </html>
+
 
 
 
